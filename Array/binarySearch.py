@@ -1,5 +1,7 @@
 # Find out if a key exists in the sorted list
 # array[left..right] or not using binary search algorithm
+# TC: O(log n)
+# SC: O(n)
 import unittest
 import logging
 
