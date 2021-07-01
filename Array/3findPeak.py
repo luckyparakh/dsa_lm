@@ -79,7 +79,7 @@ class Test(unittest.TestCase):
         expected = 20
         self.assertEqual(actual, expected)
 
-    def test_max9(self):
+    def test_max10(self):
         arr = [20, 10]
         actual = findPeak(arr)
         expected = 20
