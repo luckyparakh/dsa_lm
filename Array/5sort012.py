@@ -1,6 +1,6 @@
 # https://leetcode.com/problems/sort-colors/
 # SC O(1)
-# TC O(n) and only one travesal is allowed.
+# TC O(n) and only one traversal is allowed.
 # Array consist of only 0's, 1's and 2's. Write an algorithm to sort  this array in
 # O(n) time complexity and O(1) Space complexity with only one traversal.
 import unittest
